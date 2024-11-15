@@ -1,0 +1,384 @@
+Uri: http://arxiv.org/pdf/2109.00137
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\pdf\2109.00137v1.pdf
+Content Type: application/pdf
+
+Uri: https://aloha-2.github.io/assets/aloha2.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\assets\aloha2.pdf
+Content Type: application/pdf
+
+Uri: https://arxiv.org/pdf/2109.00137.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\pdf\2109.00137.pdf
+Content Type: text/html
+
+Uri: https://arxiv.org/pdf/2410.13126
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\pdf\2410.13126v1.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\index.htm
+Content Type: text/html
+
+Uri: https://jonathantompson.github.io/css
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\css
+Content Type: application/octet-stream
+
+Uri: https://jonathantompson.github.io/custom.css
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\custom.css
+Content Type: text/css
+
+Uri: https://jonathantompson.github.io/favicon.ico
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://jonathantompson.github.io/favicon_apple.ico
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\favicon_apple.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://jonathantompson.github.io/hand_files/blockui.js
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\blockui.js
+Content Type: application/javascript
+
+Uri: https://jonathantompson.github.io/hand_files/bootbox.min.js
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\bootbox.min.js
+Content Type: application/javascript
+
+Uri: https://jonathantompson.github.io/hand_files/bootstrap.css
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\bootstrap.css
+Content Type: text/css
+
+Uri: https://jonathantompson.github.io/hand_files/bootstrap.min.js
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://jonathantompson.github.io/hand_files/exporting.js
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\exporting.js
+Content Type: application/javascript
+
+Uri: https://jonathantompson.github.io/hand_files/highcharts.js
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\highcharts.js
+Content Type: application/javascript
+
+Uri: https://jonathantompson.github.io/hand_files/jonathan.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\jonathan.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/hand_files/jquery.js
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\jquery.js
+Content Type: application/javascript
+
+Uri: https://jonathantompson.github.io/hand_files/ken.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\ken.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/hand_files/logo_nyu.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\logo_nyu.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/hand_files/murphy.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\murphy.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/hand_files/sample.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\sample.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/hand_files/tog_paper_thumbnail.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\tog_paper_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/hand_files/tog_ppt_thumbnail.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\tog_ppt_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/hand_files/yann.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\hand_files\yann.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/algo_schema-01_3_only.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\algo_schema-01_3_only.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/ALOHA Unleashed_ Autonomous Policies - 480p.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\ALOHA Unleashed_ Autonomous Policies - 480p.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/aloha2_video_small.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\aloha2_video_small.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/alphabots_sim_cropped_fast.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\alphabots_sim_cropped_fast.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/arch.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\arch.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/body_tracking_2_2.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\body_tracking_2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/car_spin.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\car_spin.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/chair_spin.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\chair_spin.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/counting_1.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\counting_1.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/cvpr_2014_detections.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\cvpr_2014_detections.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/cvpr_2014_model.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\cvpr_2014_model.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/dac_cropped.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\dac_cropped.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/dial_labeling.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\dial_labeling.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/ebm_sort_crop.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\ebm_sort_crop.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/Epoch-sign.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\Epoch-sign.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/expand.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\expand.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/fig5_mc_cvl_qvals.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\fig5_mc_cvl_qvals.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/fisher_brc.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\fisher_brc.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/hand_tracking.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\hand_tracking.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/icon_github.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\icon_github.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/icon_google_scholar.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\icon_google_scholar.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/icon_linkedin.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\icon_linkedin.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/icon_mail.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\icon_mail.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/IMG_0101_cropped.JPG
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\IMG_0101_cropped.JPG
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/inner_monologue_cropped.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\inner_monologue_cropped.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/kitting_cropped.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\kitting_cropped.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/length_conditioning.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\length_conditioning.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/LSP_results.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\LSP_results.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/merlin_video_crop.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\merlin_video_crop.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/nips_2014_arch1.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\nips_2014_arch1.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/open_jar_cropped.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\open_jar_cropped.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/palm_e_planning_4x_compressed_small_crop.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\palm_e_planning_4x_compressed_small_crop.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/person_lab.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\person_lab.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/pfd.gif
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\pfd.gif
+Content Type: image/gif
+
+Uri: https://jonathantompson.github.io/images/PK_Contactless_Chip_cropped.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\PK_Contactless_Chip_cropped.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/PK_test_setup_cropped.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\PK_test_setup_cropped.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/plane_spin.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\plane_spin.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/real-assemble-kit.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\real-assemble-kit.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/realtime_30.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\realtime_30.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/teaser_nnclr.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\teaser_nnclr.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/images/thesis_snippit.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\thesis_snippit.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/top.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\top.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/unisim_banner_small.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\unisim_banner_small.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/vale_gif_compressed.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\vale_gif_compressed.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/value_dice.jpg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\value_dice.jpg
+Content Type: image/jpeg
+
+Uri: https://jonathantompson.github.io/images/video-rosie-small.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\video-rosie-small.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/video-rtx-small.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\video-rtx-small.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/vlp_teaser_comp_small_faster.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\vlp_teaser_comp_small_faster.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/wig1.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\wig1.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/wig2.mp4
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\wig2.mp4
+Content Type: video/mp4
+
+Uri: https://jonathantompson.github.io/images/word.gif
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\word.gif
+Content Type: image/gif
+
+Uri: https://jonathantompson.github.io/images/xirl.png
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\images\xirl.png
+Content Type: image/png
+
+Uri: https://jonathantompson.github.io/LICENSE
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\LICENSE
+Content Type: application/octet-stream
+
+Uri: https://jonathantompson.github.io/normalize.css
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\normalize.css
+Content Type: text/css
+
+Uri: https://jonathantompson.github.io/NYU_Hand_Pose_Dataset.htm
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\NYU_Hand_Pose_Dataset.htm
+Content Type: text/html
+
+Uri: https://jonathantompson.github.io/others/cvl.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\cvl.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/others/iclr2014_paper.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\iclr2014_paper.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/others/joint-training-convolutional.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\joint-training-convolutional.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/others/paper_presentation_no_videos.pptx
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\paper_presentation_no_videos.pptx
+Content Type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+
+Uri: https://jonathantompson.github.io/others/thesis-defense_no_videos.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\thesis-defense_no_videos.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/others/thesis.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\thesis.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/others/TOG_2014_paper.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\TOG_2014_paper.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/others/tompson_cvpr15.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\tompson_cvpr15.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/others/wireless_tompson.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\others\wireless_tompson.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/resume/JJRT_resume_no_address.doc
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\resume\JJRT_resume_no_address.doc
+Content Type: application/msword
+
+Uri: https://jonathantompson.github.io/resume/JJRT_resume_no_address.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\resume\JJRT_resume_no_address.pdf
+Content Type: application/pdf
+
+Uri: https://jonathantompson.github.io/resume/JJRT_resume_no_address_page_01.svg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\resume\JJRT_resume_no_address_page_01.svg
+Content Type: image/svg+xml
+
+Uri: https://jonathantompson.github.io/resume/JJRT_resume_no_address_page_02.svg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\resume\JJRT_resume_no_address_page_02.svg
+Content Type: image/svg+xml
+
+Uri: https://jonathantompson.github.io/resume/JJRT_resume_no_address_page_03.svg
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\resume\JJRT_resume_no_address_page_03.svg
+Content Type: image/svg+xml
+
+Uri: https://jonathantompson.github.io/skeleton.css
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\skeleton.css
+Content Type: text/css
+
+Uri: https://jonathantompson.github.io/social-circles.min.css
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\social-circles.min.css
+Content Type: text/css
+
+Uri: https://openaccess.thecvf.com/content_CVPR_2020/papers/Dwibedi_Counting_Out_Time_Class_Agnostic_Video_Repetition_Counting_in_the_CVPR_2020_paper.pdf
+File Name: C:\Users\PC\Desktop\downloaded web\jonathantompson.github.io\content_CVPR_2020\papers\Dwibedi_Counting_Out_Time_Class_Agnostic_Video_Repetition_Counting_in_the_CVPR_2020_paper.pdf
+Content Type: application/pdf
+
